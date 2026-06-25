@@ -1,0 +1,6 @@
+{
+  "name": "Civic Hero: Community Action Platform",
+  "description": "Empowering citizens to report, validate, track, and resolve neighborhood issues through gamified collaboration and intelligent AI routing.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
